@@ -159,3 +159,5 @@ That covers pipes. Pipes have plenty of potential beyond the scope of this artic
 - [Angular GitHub Repository](https://github.com/angular/angular)
 - [List of Pipes Pre-packaged with Angular](https://angular.io/api?query=pipe)
 - [Angular CLI](https://cli.angular.io)
+
+My changes...
